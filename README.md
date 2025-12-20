@@ -63,11 +63,7 @@ pip install numpy==1.25.2 scipy==1.11.1 matplotlib==3.7.2 statsmodels==0.14.0
    ```bash
    git clone https://github.com/your-username/numerical-methods-chemeng-python.git
    ```
-2. **Navigate to the Case Studies folder:** Each folder contains the script and necessary data files for the examples described in the book.
-3. **Run a script:**
-   ```bash
-   python case_study_example.py
-   ```
+2. **Navigate to the Case Studies folder:** Each subfolder includes Jupyter notebooks, and any required datasets for the book’s case-study examples.
 
 ---
 

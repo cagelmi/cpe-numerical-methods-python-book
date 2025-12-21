@@ -1,7 +1,7 @@
 # Numerical Methods in Chemical Process Engineering Using Python
 ### Tools for Modeling, Simulation, and Optimization
 
-[![Publisher: Springer](https://img.shields.io/badge/Publisher-Springer_USA-blue)](https://www.springer.com/)
+[![Publisher: Springer](https://img.shields.io/badge/Publisher-Springer-blue)](https://www.springer.com/)
 [![Python Version](https://img.shields.io/badge/python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -70,7 +70,7 @@ pip install numpy==1.25.2 scipy==1.11.1 matplotlib==3.7.2 statsmodels==0.14.0
 ## Attribution
 If you use these codes, methods, or examples in your own projects, research, or publications, please cite the book:
 
-> **Jorquera, H., & Gelmi, C. A. (2026). *Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization.* Springer USA.**
+> **Jorquera, H., & Gelmi, C. A. (2026). *Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization.* New York, NY: Springer.**
 
 ---
 

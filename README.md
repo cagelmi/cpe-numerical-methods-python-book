@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official Python source code and case studies for the book [Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization](https://link.springer.com/book/9783032229571), published by **Springer Nature** (forthcoming, May 2026).
+This repository contains the official Python source code and case studies for the book [Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization](https://link.springer.com/book/9783032229571), published by **Springer Cham** (forthcoming, May 2026).
 
 ## Authors
 * **Héctor Jorquera, Ph.D.** –[Academic Profile](https://www.ing.uc.cl/academicos-e-investigadores/hector-ivan-joaquin-jorquera-gonzalez/)

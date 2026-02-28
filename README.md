@@ -5,12 +5,14 @@
 [![Python Version](https://img.shields.io/badge/python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official Python source code and case studies for the book **"Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization"**, published by **Springer USA** (forthcoming, Late 2026).
+This repository contains the official Python source code and case studies for the book [Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization]([https://www.linkedin.com/in/claudiogelmi/](https://link.springer.com/book/9783032229571), published by **Springer Nature** (forthcoming, May 2026).
 
 ## Authors
 * **Héctor Jorquera, Ph.D.** –[Academic Profile](https://www.ing.uc.cl/academicos-e-investigadores/hector-ivan-joaquin-jorquera-gonzalez/)
+Héctor Jorquera is Professor in the Department of Chemical and Bioprocess Engineering, Pontificia Universidad Católica de Chile. He holds BSc and MSc degrees in Chemical Engineering from Universidad de Chile and a PhD from the University of Minnesota. Professor Jorquera has been teaching numerical methods to engineering students since 1992. He has been a visiting professor in ENSBANA (Dijon, France), Imperial College (London, UK), University of Iowa (CGRER) and Harvard University (ACMG). He has published more than 60 papers in scientific journals. He is the author of the textbook Introduction to Air Pollution Engineering (in Spanish).
+  
 * **Claudio A. Gelmi, Ph.D.** –[LinkedIn Profile](https://www.linkedin.com/in/claudiogelmi/)
-
+Claudio A. Gelmi earned a B.Sc. in Industrial and Chemical Engineering and an M.Sc. in Chemical Engineering from Pontificia Universidad Católica de Chile (UC), and a Ph.D. in Chemical Engineering from the University of Delaware (Newark, USA). He served as an Assistant Professor in UC’s Department of Chemical and Bioprocess Engineering and held leadership roles as Associate Dean for Engineering Education in the School of Engineering and Director of the Center for Teaching Development within the Academic Vice-Rector’s Office. He has authored more than 20 research articles and two textbooks, among other publications. He has led data-driven initiatives as an independent consultant and has taught artificial intelligence in executive education programs at UC. He currently serves as Director of the Artificial Intelligence Center at Universidad San Sebastián (Chile).
 ---
 
 ## About the Book

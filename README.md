@@ -38,7 +38,7 @@ Offers a curated set of solved problems with complete code and result figures. H
 ---
 
 ## Python Code
-The scripts in this repository correspond to the **"Case Studies"** section of the book.
+The Python scripts included in this repository correspond to the examples used in **Chapters 01–05** and in the **Case Studies** section of the book.
 
 While programming is an art with multiple valid solutions, we have striven to provide the most direct and efficient implementations for educational purposes.
 

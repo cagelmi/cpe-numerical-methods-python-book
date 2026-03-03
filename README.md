@@ -1,8 +1,7 @@
-<img src="images/978-3-032-22957-1.jpg" align="right" height="150" alt="Cover">
+<img src="images/978-3-032-22957-1.jpg" align="right" height="100" alt="Cover">
 
 # Numerical Methods in Chemical Process Engineering Using Python
 ### Tools for Modeling, Simulation, and Optimization
-
 
 [![Publisher: Springer](https://img.shields.io/badge/Publisher-Springer-blue)](https://www.springer.com/)
 [![Python Version](https://img.shields.io/badge/python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)

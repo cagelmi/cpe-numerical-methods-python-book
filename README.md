@@ -1,4 +1,4 @@
-<img src="images/978-3-032-22957-1.jpg" align="right" height="100" alt="Cover">
+<img src="images/978-3-032-22957-1.jpg" align="right" height="110" alt="Cover">
 
 # Numerical Methods in Chemical Process Engineering Using Python
 ### Tools for Modeling, Simulation, and Optimization

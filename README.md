@@ -7,7 +7,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10.13-blue.svg)](https://www.python.org/downloads/release/python-31013/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official Python source code and case studies for the book [Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization](https://link.springer.com/book/9783032229571), published by **Springer Cham** (forthcoming, May 2026).
+This repository contains the official Python source code and case studies for the book **Numerical Methods in Chemical Process Engineering Using Python: Tools for Modeling, Simulation, and Optimization**, published by **Springer Cham** (forthcoming, May 2026).
 
 The book is available on [Amazon](https://www.amazon.com/dp/303222957X/) and [Springer](https://link.springer.com/book/9783032229571).
 

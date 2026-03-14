@@ -81,7 +81,7 @@ If you find any errors, typos, or issues in the book text or in the accompanying
 
 Feedback from readers helps improve the quality of both the book and the code repository. Even small corrections (e.g., typos, formatting issues, incorrect variable names, broken links, or unclear explanations) are valuable.
 
-Please use the following Google Form to submit your report:
+Please use the following **Google Form** to submit your report:
 
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeyoMpYQSNGralqSsC3h1CZU1G8t0Zm0RZ2S8B1rA4SqeXSAA/viewform?usp=publish-editor)
 

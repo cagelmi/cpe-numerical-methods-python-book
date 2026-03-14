@@ -74,6 +74,19 @@ pip install numpy==1.25.2 scipy==1.11.1 matplotlib==3.7.2 statsmodels==0.14.0
 
 ---
 
+## Found an error? Please report it here
+If you find any errors, typos, or issues in the book text or in the accompanying Python code examples, we would greatly appreciate your help in reporting them.
+
+Feedback from readers helps improve the quality of both the book and the code repository. Even small corrections (e.g., typos, formatting issues, incorrect variable names, broken links, or unclear explanations) are valuable.
+
+Please use the following Google Form to submit your report:
+
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeyoMpYQSNGralqSsC3h1CZU1G8t0Zm0RZ2S8B1rA4SqeXSAA/viewform?usp=publish-editor)
+
+Your contributions help improve the book for future readers and students. Thank you for helping maintain the accuracy and quality of this material.
+
+---
+
 ## Attribution
 If you use these codes, methods, or examples in your own projects, research, or publications, please cite the book:
 
